@@ -1,0 +1,2 @@
+# Machine-Learning-Tutorial
+This repository contains the content I created and delivered in my capacity as a Graduate Teaching Assistant at UNC Charlotte for the Machine Learning in Manufacturing and Material Science course under Dr. Harish Cherukuri. This course's facts and concepts are drawn from a variety of articles and online courses. I have worked towards the curation of these materials as well as the structure of the notebooks.
